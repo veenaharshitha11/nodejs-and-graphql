@@ -8,5 +8,7 @@ Node.js (v14 or higher) - Install Node.js
 MongoDB - Install MongoDB
 
 clone the repository
+
 npm install
+
 node index.js
